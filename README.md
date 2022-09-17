@@ -4,7 +4,10 @@ un blog de prueba para git
 >- se aorenden cosas interesantes
 se edito aqui https://pandao.github.io/editor.md/en.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> readme-mejorado
 Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es lo que me hacÃ­a falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintÃ©tica con Machine Learning
 > - niÃ±ita
@@ -19,6 +22,12 @@ Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/g
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * alias arbolito="git log --all --graph --decorate --oneline"
+<<<<<<< HEAD
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 >>>>>>> 699e7e2 (incluye arbolito)
+=======
+*Disponible para tododos
+
+Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+>>>>>>> readme-mejorado
